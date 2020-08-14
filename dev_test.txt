@@ -1,1 +1,5 @@
-add master merge
+<<<<<<< HEAD
+dev add merge
+=======
+dev add merge
+>>>>>>> feature1
